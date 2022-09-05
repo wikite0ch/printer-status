@@ -1,6 +1,6 @@
 # printer status
 
-[![printer status](gett-detail.png)](https://github.com/wikite0ch/printer-status)
+[![printer status](gett-detail.png)](https://icncomputer.com/printer-status/)
 
 The icon for the **_[printer status](https://github.com/pcs0lution/screen-recorder-for-pc/)_**  Window is displayed in the Windows taskbar. Click the icon, then click the printer name to run it. The Printer Status Window appears as follows during printing or when an error occurs. The status of the **printer status** Window varies depending on the printer operation as follows.
 
